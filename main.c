@@ -6,5 +6,8 @@ main()
     //zhenghongwei
     int zhw0110 = function_zhw0110();
 
+    //guojun
+    int gj0235 = function_gj0235();
+
     //TBD
 }
