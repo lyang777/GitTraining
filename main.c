@@ -9,5 +9,8 @@ main()
     //guojun
     int gj0235 = function_gj0235();
 
+    //zhangteng
+    int zt0188 = function_zt0188();
+
     //TBD
 }
