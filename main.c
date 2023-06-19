@@ -18,5 +18,8 @@ main()
     //caoshihui
     int csh0123 = function_csh0123();
 
+    //wangkeyuan
+    int wky0120 = function_wky0120();
+
     //TBD
 }
