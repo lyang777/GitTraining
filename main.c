@@ -15,5 +15,8 @@ main()
     //zhuangguowei
     int zgw0018 = function_zgw0018();
 
+    //caoshihui
+    int csh0123 = function_csh0123();
+
     //TBD
 }
