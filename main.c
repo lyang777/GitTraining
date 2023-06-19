@@ -12,5 +12,8 @@ main()
     //zhangteng
     int zt0188 = function_zt0188();
 
+    //caoshihui
+    int csh0123 = function_csh0123();
+
     //TBD
 }
