@@ -21,5 +21,8 @@ main()
     //wangkeyuan
     int wky0120 = function_wky0120();
 
+    //zhanyonggang
+    int zyg0023 = function_zyg0023();
+
     //TBD
 }
