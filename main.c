@@ -24,5 +24,8 @@ main()
     //zhanyonggang
     int zyg0023 = function_zyg0023();
 
+    //wangxiubo
+    int wxb0183= function_wxb0183();
+
     //TBD
 }
