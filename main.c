@@ -26,6 +26,9 @@ main()
 
     //liwanling
     int zyg0023 = function_lwl0168();
+
+    //liruolei
+    int lrl0113 = function_lrl0113();
     
     //TBD
 }
