@@ -24,17 +24,14 @@ main()
     //zhanyonggang
     int zyg0023 = function_zyg0023();
 
-<<<<<<< HEAD
     //wangxiubo
     int wxb0183= function_wxb0183();
 
-=======
     //liwanling
     int zyg0023 = function_lwl0168();
 
     //liruolei
     int lrl0113 = function_lrl0113();
     
->>>>>>> 37cf8446881c4091c64fb26d5f06e541f5be65d2
     //TBD
 }
