@@ -26,6 +26,9 @@ main()
 
     //liwanling
     int zyg0023 = function_lwl0168();
+	
+	//jingliang
+    int jl0212 = function_jl0212();
     
     //TBD
 }
