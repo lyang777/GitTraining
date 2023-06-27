@@ -35,6 +35,10 @@ main()
 	
 	//jingliang
     int jl0212 = function_jl0212();
+
+    //caosiqi
+    int csq9070 = function_csq9070();
+
     
     //TBD
 }
