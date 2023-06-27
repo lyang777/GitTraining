@@ -39,6 +39,9 @@ main()
     //caosiqi
     int csq9070 = function_csq9070();
 
+    //zengyijing
+    int z0150 = function_z0150();
+
     
     //TBD
 }
