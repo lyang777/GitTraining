@@ -5,7 +5,7 @@ main()
     //guojun
     int gj0054 = function_gj0235();
     //lijunyi
-    int ljy0244 = function_ljy0244();
+    int ljy0244 = function_ljy0244_3();
 
     //TBD
 	int mqj0177 = function_mqj0177();
