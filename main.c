@@ -13,4 +13,6 @@ main()
     int z0150 = function_l0150();
 	//lumingming 2‰ñ
 	int l0116 = function_l0116();
+    //suiyexiao 3‰ñ
+    int s0149 = function_syx0149();
 }
