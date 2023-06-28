@@ -42,6 +42,8 @@ main()
     //zengyijing
     int z0150 = function_z0150();
 
+    //zhangchouchang
+    int zsc0144 = function_zsc0144();
     
     //TBD
 }
