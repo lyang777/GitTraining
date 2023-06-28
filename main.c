@@ -2,9 +2,12 @@ main()
 {
     //liuyang
     int ly0054 = function_ly0054();
+<<<<<<< HEAD
    
     //zhenghongwei
     int zhw0110 = function_zhw0110();
+=======
+>>>>>>> feature-GitTraining-zsc0144
 
     //guojun
     int gj0054 = function_gj0235();
@@ -12,8 +15,11 @@ main()
     //lijunyi
     int ljy0244 = function_ljy0244();
 
+<<<<<<< HEAD
     //guojun
     int gj0235 = function_gj0235();
+=======
+>>>>>>> feature-GitTraining-zsc0144
 
     //zhangteng
     int zt0188 = function_zt0188();
@@ -48,9 +54,13 @@ main()
     //zengyijing
     int z0150 = function_z0150();
 
+<<<<<<< HEAD
     //zhangchouchang
     int zsc0144 = function_zsc0144();
     
+=======
+
+>>>>>>> feature-GitTraining-zsc0144
     //TBD
 	int mqj0177 = function_mqj0177();
     //zengyijing
