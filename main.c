@@ -7,6 +7,12 @@ main()
     int zhw0110 = function_zhw0110();
 
     //guojun
+    int gj0054 = function_gj0235();
+
+    //lijunyi
+    int ljy0244 = function_ljy0244();
+
+    //guojun
     int gj0235 = function_gj0235();
 
     //zhangteng
@@ -46,4 +52,10 @@ main()
     int zsc0144 = function_zsc0144();
     
     //TBD
+	int mqj0177 = function_mqj0177();
+    //zengyijing
+    int z0150 = function_l0150();
+
+    //zhangshouchang　追加３回目
+    int zsc0144 = function_zsc0144();
 }
