@@ -34,7 +34,7 @@ main()
     int wxb0183= function_wxb0183();
 
     //liwanling
-    int zyg0023 = function_lwl0168();
+    int lwl0168 = function_lwl0168();
 
     //liruolei
     int lrl0113 = function_lrl0113();
