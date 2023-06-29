@@ -50,6 +50,6 @@ main()
     int z0150 = function_l0150();
 
     //zhangshouchang　追加３回目
-	// テスト
+	// テスト テスト２
     int zsc0144 = function_zsc0144();
 }
