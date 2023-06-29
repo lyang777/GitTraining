@@ -1,6 +1,8 @@
 int function_zsc0144()
 {
     // 追加３回目
+    // テスト
     int git = 1;
     return git;
+	
 }
