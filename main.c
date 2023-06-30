@@ -68,4 +68,7 @@ main()
     //zhangshouchang　追加３回目
 	// テスト テスト２
     int zsc0144 = function_zsc0144();
+	// テスト1
+    int z0144 = function_zsc0144();
 }
+

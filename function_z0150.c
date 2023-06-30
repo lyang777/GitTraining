@@ -1,10 +1,11 @@
 int function_z0150()
 {
     int git = 1;
-
     int git = 150;
 
     int git = 1;
     int git = 150;
+    int git = 144;
+
     return git;
 }
