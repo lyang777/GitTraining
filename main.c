@@ -36,6 +36,7 @@ main()
     //wangkeyuan
     int wky0120 = function_wky0120();
 
+<<<<<<< HEAD
     //zhanyonggang
     int zyg0023 = function_zyg0023();
 
@@ -60,6 +61,8 @@ main()
     //zhangchouchang
     int zsc0144 = function_zsc0144();
     
+=======
+>>>>>>> 41fb31c (refs wky0120)
     //TBD
 	int mqj0177 = function_mqj0177();
     //zengyijing
